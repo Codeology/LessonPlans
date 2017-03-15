@@ -18,14 +18,6 @@ def firstUniqChar(s):
             return i
     return -1
 
-    # a more pythonic way to write this loop is to use
-    # the built-in `enumerate` method to gain access to
-    # the index and the element of the list simultaneously
-    #
-    #
-    # this way is fine too, just not as a clean:
-
-
 def countsDict(s):
     d = {}
 

@@ -30,6 +30,8 @@ in an efficient way. We can use this idea to collect the frequency of
 each character in the input string, and then interate once more through
 the string to find the first character that is unique.
 
+### Code
+
 Here's some sample Python code: [firstUniqueCharacterInString.py](./firstUniqueCharacterInString.py)
 
 #### (Bonus)

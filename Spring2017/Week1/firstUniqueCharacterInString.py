@@ -12,25 +12,34 @@
 # Note: you may assume the string contains only lowercase letters
 
 def firstUniqChar(s):
+    # create the frequency dict
     counts = {char: s.count(char) for char in s}
+
+    # now find the first unique char
     for i, char in enumerate(s):
         if counts[char] == 1:
             return i
+
+    # default
     return -1
 
-def countsDict(s):
-    d = {}
-
-    # a "pythonic" way to write this loop is to use
-    # the lists' built-in `count` method:
-    #
-    # d = {char: s.count(char) for char in s}
-    for char in s: 
-        if char in d:
-            d[char] += 1
+def the_long_way(s):
+    # create the frequency dict
+    counts = {}
+    for char in s:
+        if char in counts:
+            counts[char] += 1
         else:
-            d[char] = 1
-    return d
+            counts[char] = 1
+
+    # now find the first unique char
+    for i in range(len(s)):
+        char = s[i]
+        if counts[char] == 1:
+            return i
+
+    # default
+    return -1
 
 def tests():
     s1 = "leetcode" #0

@@ -22,5 +22,6 @@ finding out whether an element exists in a list takes linear time.
 Write a function to output the duplicate characters in a string.
 
 ## Mock Interview Questions
-[First unique character in a string (Easy)](./question-firstUniqueCharacterinString.md) [solution](./answer-firstUniqueCharacterinString.md)
-[Least Tiles (Medium)](./leastTiles.md) [solution](./answer-leastTiles.md)
+
+* [First unique character in a string (Easy)](./question-firstUniqueCharacterinString.md) [solution](./answer-firstUniqueCharacterinString.md)
+* [Least Tiles (Medium)](./leastTiles.md) [solution](./answer-leastTiles.md)

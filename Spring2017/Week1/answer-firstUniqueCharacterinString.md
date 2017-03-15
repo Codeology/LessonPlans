@@ -15,6 +15,14 @@ for char in string:
         counts[char] += 1
     else:
         counts[char] = 1
+
+# counts = { 'h': 1,
+#            'e': 1,
+#            'l': 2,
+#            'o': 2,
+#            'w': 1,
+#            'r': 1,
+#            'd': 1 }
 ```
 
 In general, this pattern of using dictionaries is to collect frequencies
@@ -22,7 +30,7 @@ in an efficient way. We can use this idea to collect the frequency of
 each character in the input string, and then interate once more through
 the string to find the first character that is unique.
 
-Here's some sample `Python` code: [firstUniqueCharacterinString.py](./firstUniqueCharacterinString.py)
+Here's some sample Python code: [firstUniqueCharacterInString.py](./firstUniqueCharacterInString.py)
 
 #### (Bonus)
 
@@ -42,7 +50,7 @@ dictionary.
 
 ### Other resources
 
-[Java solution](https://discuss.leetcode.com/topic/55148/java-7-lines-solution-29ms)
-[Python: What is `enumerate`?](https://docs.python.org/2/library/functions.html#enumerate)
-[Python: list comprehension](http://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
-[Python: Dictionary comprehension](http://stackoverflow.com/questions/1747817/create-a-dictionary-with-list-comprehension-in-python)
+* [Java solution](https://discuss.leetcode.com/topic/55148/java-7-lines-solution-29ms)
+* [Python: What is `enumerate`?](https://docs.python.org/2/library/functions.html#enumerate)
+* [Python: list comprehension](http://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+* [Python: Dictionary comprehension](http://stackoverflow.com/questions/1747817/create-a-dictionary-with-list-comprehension-in-python)

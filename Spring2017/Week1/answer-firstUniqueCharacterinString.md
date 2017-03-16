@@ -18,7 +18,7 @@ for char in string:
 
 # counts = { 'h': 1,
 #            'e': 1,
-#            'l': 2,
+#            'l': 3,
 #            'o': 2,
 #            'w': 1,
 #            'r': 1,

@@ -62,10 +62,15 @@ Thought process:
 
 ## Mock Interview Questions (work in pairs or on your own time, we'll review some together)
 
+## Mock Interview Questions (work in pairs or on your own time, we'll review some together)
+
 * [(Easy) Search Insert Position (leetcode)](https://leetcode.com/problems/search-insert-position/#/description)
 * [(Easy) Plus One (leetcode)](https://leetcode.com/problems/plus-one/#/description)
 * [(Easy) First unique character in a string](./question-firstUniqueCharacterinString.md) | [solution](./answer-firstUniqueCharacterinString.md)
 * [(Easy) Majority Element (leetcode)](https://leetcode.com/problems/majority-element/#/description)
+* [(Easy) Two Sum (leetcode)](https://leetcode.com/problems/two-sum/#/description)
+* [(Medium) 3 Sum (leetcode)](https://leetcode.com/problems/3sum/#/description)
+* [(Medium) Compare Version Numbers (leetcode)](https://leetcode.com/problems/compare-version-numbers/#/description)
 * [(Medium) Least Tiles](./leastTiles.md) | [solution](./answer-leastTiles.md)
 * [(Medium) Group Anagrams (leetcode)](https://leetcode.com/problems/anagrams/#/description) | [solutions](https://discuss.leetcode.com/category/57/anagrams)
 * [(Medium) All permutations (GeeksForGeeks)](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)

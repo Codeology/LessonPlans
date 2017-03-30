@@ -13,7 +13,7 @@ and output `0`, `1`, or `2` depending on which one is bigger.
 
 ### Code
 
-Here's some sample code: [leastTiles.py](./leastTiles.py)
+Here's some sample code: [leastTiles.py](./leastTiles.py) [leastTiles.java](./leastTiles.java)
 
 ### Runtime and Space Complexity
 

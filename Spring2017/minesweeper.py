@@ -58,11 +58,6 @@ def legal(board, click):
 def unvisited(board, click):
     return board[click[0]][click[1]] == 'E'
 
-# [['B',  1,  'E', 'E', 'E'],
-#  ['B', 'E', 'M', 'E', 'E'],
-#  ['B', 'E', 'E', 'E', 'E'],
-#  ['E', 'B', 'E', 'E', 'E']]
-
 
 def tests():
     t1 = [['E', 'E', 'E', 'E', 'E'], ['E', 'E', 'M', 'E', 'E'], ['E', 'E', 'E', 'E', 'E'], ['E', 'E', 'E', 'E', 'E']]

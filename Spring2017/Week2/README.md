@@ -18,7 +18,7 @@ Here's a quick sample of a singly Linked List class implementation:
 ```python
 class Node:
     def __init__(self, value):
-        self.value = value
+        self.value = value # you can put pretty much anything here
         self.next = None
 
 class SinglyLinkedList:
@@ -31,8 +31,8 @@ class SinglyLinkedList:
         self.last = self.last.next
 
 a = Node(1)
-b = Node(2)
-c = Node(3)
+b = Node('a')
+c = Node(Node(2)) # node-ception
 
 lst = SinglyLinkedList(a)
 lst.append(b)
@@ -40,8 +40,8 @@ lst.append(c)
 
 # lst looks like this: head->[1]->[2]->[3]->None
 print(lst.head.value) # 1
-print(lst.head.next.value) # 2
-print(lst.head.next.next.value) # 3
+print(lst.head.next.value) # a
+print(lst.head.next.next.value) # <__main__.Node instance at 0x10ffacf80>
 ```
 
 As simple as they are, there are different kinds of linked lists.

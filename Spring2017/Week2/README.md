@@ -57,8 +57,9 @@ How about deleting a node in a linked list?
 
 ## Mock Interview Questions (work in pairs and raise your hand for check off!)
 
-* []()
-* []()
-* []()
-* []()
+* [(Easy) Remove duplicates](./questions/question-remove-duplicates.md)
+* [(Easy) Delete a node](./questions/question-delete-middle-node.md)
+* [(Easy) Palindrome](./questions/question-palindrome.md)
+* [(Medium) Sum Lists](./questions/question-sum-lists.md)
 * [(Medium) Loop Detection](./questions/question-loop-detection.md)
+* [(Medium) Intersection](./questions/question-intersection.md)

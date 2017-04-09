@@ -1,4 +1,4 @@
-[<- Back to Week 2](../..)
+[<- Back to Week 2](..)
 
 ## Goal ##
 Given a circular linked list, implement an algorithm that

@@ -12,3 +12,7 @@ the linked list.
 ## Example ##
 Input:    A -> B -> C -> D -> E -> C [the same C as earlier]  
 Output:   C
+
+## Leetcode ##
+[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description)
+[Linked List Cycle 2](https://leetcode.com/problems/linked-list-cycle-ii/#/description)

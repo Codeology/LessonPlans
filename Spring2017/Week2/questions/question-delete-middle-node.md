@@ -9,5 +9,5 @@ access to that node.
 
 EXAMPLE
 
-Input: the node c from the linked list [a]->[b]->[c]->[d]->[e]->[f]->[]  
-Output: nothing is returned, but the linked list now looks like [a]->[b]->[d]->[e]->[f]->[]
+Input: the node c from the linked list `[a]->[b]->[c]->[d]->[e]->[f]->[]`  
+Output: nothing is returned, but the linked list now looks like `[a]->[b]->[d]->[e]->[f]->[]`

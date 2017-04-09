@@ -52,7 +52,7 @@ lists [here](https://en.wikipedia.org/wiki/Linked_list#Basic_concepts_and_nomenc
 
 ## Demo
 
-Anyone know how to reverse a linked list?
+Anyone know how to reverse a linked list?  
 How about deleting a node in a linked list?
 
 ## Mock Interview Questions (work in pairs and raise your hand for check off!)

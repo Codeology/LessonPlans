@@ -62,8 +62,6 @@ Thought process:
 
 ## Mock Interview Questions (work in pairs or on your own time, we'll review some together)
 
-## Mock Interview Questions (work in pairs or on your own time, we'll review some together)
-
 * [(Easy) Search Insert Position (leetcode)](https://leetcode.com/problems/search-insert-position/#/description)
 * [(Easy) Plus One (leetcode)](https://leetcode.com/problems/plus-one/#/description)
 * [(Easy) First unique character in a string](./question-firstUniqueCharacterinString.md) | [solution](./answer-firstUniqueCharacterinString.md)

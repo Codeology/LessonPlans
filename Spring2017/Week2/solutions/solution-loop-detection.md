@@ -9,6 +9,7 @@ So we want to detect whether there is a cycle in the linked list. We
 can see that if we use one pointer and simply iterate down the nodes,
 we don't have the right tools for detecting when we've started cycling.
 
+### Dictionary ###
 How about introducing some memory? We can add into a hashset all the
 nodes we've seen before, and check if the current node we're about
 to visit has been seen. If it has, then that node must be the start
@@ -21,6 +22,7 @@ really long? Can we optimize our current approach? Can we save either
 space or runtime here? We just want to find whether a cycle exists,
 so specific nodes don't really matter.
 
+### Runner Technique ###
 Let's try the classic "tortoise and hare" technique, a.k.a the "runner"
 technique. The idea is that when we're working with circular linked
 lists, if we have one pointer traveling faster than another pointer,
@@ -39,5 +41,6 @@ cycle. So how long is the cycle? In the worst case, the last node of
 the linked list loops back to the first node. So overall, the most
 you'll iterate is `O(2n)`, which is still linear.
 
+### Next steps.. ###
 Now.. what if we wanted to actually return the node at the beginning
 of the cycle?

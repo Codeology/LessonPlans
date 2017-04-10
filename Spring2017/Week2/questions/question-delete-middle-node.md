@@ -7,7 +7,10 @@ Implement an algorithm to delete a node in the middle
 the exact middle) of a singly linked list, given only
 access to that node.
 
-EXAMPLE
+## Example ##
 
 Input: the node c from the linked list `[a]->[b]->[c]->[d]->[e]->[f]->[]`  
 Output: nothing is returned, but the linked list now looks like `[a]->[b]->[d]->[e]->[f]->[]`
+
+## Solution ##
+[Delete Middle Node](../solutions/solution-delete-middle-node.)

@@ -5,7 +5,7 @@ class TreeNode(object):
         self.left = None
         self.right = None
 
-def hasPathSum(self, root, pathSum):
+def hasPathSum(root, pathSum):
     """
     :type root: TreeNode
     :type pathSum: int
@@ -21,7 +21,7 @@ def hasPathSum(self, root, pathSum):
 
     # reduce sum and recurse
     reducedSum = pathSum-root.val
-    return self.hasPathSum(root.left, reducedSum) or self.hasPathSum(root.right, reducedSum)
+    return hasPathSum(root.left, reducedSum) or hasPathSum(root.right, reducedSum)
 
 def tests():
     bt = TreeNode(1)

@@ -9,3 +9,5 @@ and space complexity:
 5. now allow "any path in the tree, cross branches allowed"
 6. try solving the original question on an `n`-ary tree (aka branching factor could be anything)
 
+https://leetcode.com/problems/path-sum-ii/#/description
+https://leetcode.com/problems/path-sum-iii/#/description

@@ -71,7 +71,18 @@ Review:
 
 * [(Easy) Search Insert Position (leetcode)](https://leetcode.com/problems/search-insert-position/#/description)
 * [(Easy) Plus One (leetcode)](https://leetcode.com/problems/plus-one/#/description)
+* [(Easy) First unique character in a string](./question-firstUniqueCharacterinString.md) | [solution](./answer-firstUniqueCharacterinString.md)
+* [(Easy) Majority Element (leetcode)](https://leetcode.com/problems/majority-element/#/description)
+* [(Easy) Two Sum (leetcode)](https://leetcode.com/problems/two-sum/#/description)
+* [(Easy) Frequency of string in array (GeeksForGeeks)](http://www.geeksforgeeks.org/frequency-of-a-string-in-an-array-of-strings/)
+* [(Easy) First non repeating character (GeeksForGeeks)](http://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/)
 * [(Medium) 3 Sum (leetcode)](https://leetcode.com/problems/3sum/#/description)
 * [(Medium) Compare Version Numbers (leetcode)](https://leetcode.com/problems/compare-version-numbers/#/description)
+* [(Medium) Least Tiles](./leastTiles.md) | [solution](./answer-leastTiles.md)
+* [(Medium) Group Anagrams (leetcode)](https://leetcode.com/problems/anagrams/#/description) | [solutions](https://discuss.leetcode.com/category/57/anagrams)
+* [(Medium) All permutations (GeeksForGeeks)](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
+* [(Medium) Count All Palindromes (GeeksForGeeks)](http://www.geeksforgeeks.org/count-palindrome-sub-strings-string/)
+* [(Medium) Remove All Duplicates (GeeksForGeeks)](http://www.geeksforgeeks.org/remove-all-duplicates-from-the-input-string/)
 * [(Hard) Median of Two Sorted Arrays (leetcode)](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description)
+* [(Hard) Longest Consecutive Sequence (leetcode)](https://leetcode.com/problems/longest-consecutive-sequence/#/description)
 

@@ -1,7 +1,7 @@
 # Week 3 Topic: Stacks (and Queues)
 ## Lesson Overview
 
-[Stack/Queue Implementations](.stacks.py)
+[Stack/Queue Implementations](./stacks.py)
 
 ## Mock Interview Questions Practice
 
